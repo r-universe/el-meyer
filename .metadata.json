@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cats",
+    "oncran": true
+  },
+  {
+    "package": "CohortPlat",
+    "oncran": true
+  },
+  {
+    "package": "earlygating",
+    "oncran": true
+  }
+]
