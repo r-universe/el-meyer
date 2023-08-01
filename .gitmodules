@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cats"]
-	path = cats
-	url = https://github.com/el-meyer/cats
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/el-meyer/cohortplat
+[submodule "cats"]
+	path = cats
+	url = https://github.com/el-meyer/cats
 [submodule "earlygating"]
 	path = earlygating
 	url = https://github.com/el-meyer/earlygating
