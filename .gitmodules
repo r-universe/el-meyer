@@ -5,6 +5,9 @@
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/el-meyer/cohortplat
+[submodule "airship"]
+	path = airship
+	url = https://github.com/el-meyer/airship
 [submodule "cats"]
 	path = cats
 	url = https://github.com/el-meyer/cats
